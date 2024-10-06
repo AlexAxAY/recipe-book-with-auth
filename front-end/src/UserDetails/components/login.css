@@ -1,0 +1,26 @@
+.main-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.main-div form {
+  width: 400px;
+  border: 0.1px solid #caf0f8;
+  box-shadow: 1px 1px 5px -1px;
+  padding: 30px 20px;
+  border-radius: 2%;
+}
+
+h2 {
+  font-family: Franklin Gothic Medium, Franklin Gothic, ITC Franklin Gothic,
+    Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: #333;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+}

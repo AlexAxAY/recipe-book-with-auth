@@ -1,0 +1,16 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.update-delete-button {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.update-delete-button button {
+  margin: 5px;
+}

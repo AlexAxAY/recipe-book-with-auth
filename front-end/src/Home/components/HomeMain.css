@@ -1,0 +1,21 @@
+.MainContent {
+  width: 400px;
+  height: 140px;
+  border-radius: 15px;
+  font-size: 25px;
+  color: #D9D9D9;
+  -webkit-text-stroke: .5px #001524;
+}
+
+.para {
+  width: 500px;
+  height: 110px;
+  background-size: cover;
+  border-radius: 20px;
+  color: #F0F0F0;
+  font-size: larger;
+}
+
+.para p {
+  font-weight: bold;
+}
